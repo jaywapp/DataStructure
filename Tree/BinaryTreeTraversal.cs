@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace DataStructure.Tree
 {
-    public static class TreeHerlper
+    public static class BinaryTreeTraversal
     {
         /// <summary>
         /// 전위탐색
