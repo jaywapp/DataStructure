@@ -5,7 +5,7 @@ using System.Linq;
 namespace Test.Tree
 {
     [TestFixture]
-    public class TestTreeHelper
+    public class TestBinaryTreeNode
     {
         public BinaryTreeNode<int> Root { get; set; }
 
