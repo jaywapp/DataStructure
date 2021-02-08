@@ -1,6 +1,5 @@
 D:\Repository\DataStructure\bin\Debug\DataStructure.dll
 D:\Repository\DataStructure\bin\Debug\DataStructure.pdb
-D:\Repository\DataStructure\obj\Debug\DataStructure.csprojAssemblyReference.cache
 D:\Repository\DataStructure\obj\Debug\DataStructure.csproj.CoreCompileInputs.cache
 D:\Repository\DataStructure\obj\Debug\DataStructure.dll
 D:\Repository\DataStructure\obj\Debug\DataStructure.pdb
